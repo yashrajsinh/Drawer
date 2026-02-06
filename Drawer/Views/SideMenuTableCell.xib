@@ -16,14 +16,14 @@
                 <rect key="frame" x="0.0" y="0.0" width="542" height="153"/>
                 <autoresizingMask key="autoresizingMask"/>
                 <subviews>
-                    <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="IbQ-VI-c6C">
+                    <stackView opaque="NO" contentMode="scaleToFill" semanticContentAttribute="forceLeftToRight" distribution="fillEqually" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="IbQ-VI-c6C">
                         <rect key="frame" x="0.0" y="0.0" width="542" height="153"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="bg1-hB-3AX">
-                                <rect key="frame" x="0.0" y="0.0" width="271" height="153"/>
+                                <rect key="frame" x="0.0" y="0.0" width="268.66666666666669" height="153"/>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Home VIew" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="K0a-Wp-IkG">
-                                <rect key="frame" x="271" y="0.0" width="271" height="153"/>
+                                <rect key="frame" x="273.66666666666674" y="0.0" width="268.33333333333326" height="153"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
